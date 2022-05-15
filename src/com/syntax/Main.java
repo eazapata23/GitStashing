@@ -4,6 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        basicFeatures1 car=new basicFeatures1();
+        basicFeatures1 Audi=new basicFeatures1();
+        Audi.Color="red";
+        Audi.doors="4";
+        Audi.engineCapac="V8";
+        Audi.headlights="blue";
+        Audi.regNo="tuzik";
     }
 }
